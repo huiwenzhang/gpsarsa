@@ -1,5 +1,5 @@
 """
-using hrl for dialogure manguagement
+using hrl for dialogure management
 depends:
 python2+/python3
 test on ubuntu 16.04
